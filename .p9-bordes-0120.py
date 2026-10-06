@@ -1,5 +1,5 @@
-# Nicole Robles NC 0120
-#  ejemplo 1 ( del 1 al 30 )
+# Nicole Robles - NC: 0120
+# EJEMPLO ASIGNADO: Ejemplo 1 (Filtro Gaussiano - Garza)
 import cv2
 
 # Cargar la imagen asignada
@@ -23,7 +23,8 @@ else:
     cv2.waitKey(0)
     cv2.destroyAllWindows()
 
-# ejemplo 4 (31 al 60 )
+# Nicole Robles - NC: 0120
+# EJEMPLO ASIGNADO: Ejemplo 4 (Detección de Bordes Canny - Garza)
 
     import cv2
 
